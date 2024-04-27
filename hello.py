@@ -1,1 +1,1 @@
-print("Git and Github Workshop by COSC")
+print("Git and Github")
